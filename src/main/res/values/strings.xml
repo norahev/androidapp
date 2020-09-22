@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Honey Express</string>
+
+    <string-array name="honeys">
+        <item>Acacia 1kg</item>
+        <item>Acacia 1/2 kg</item>
+        <item>Polyflora 1kg</item>
+        <item>Polyflora 1/2kg</item>
+    </string-array>
+
+    <string name="quantity_prompt">Please enter the amount you would like to buy of selected honey:</string>
+    <string name="name_prompt">Please enter your name:</string>
+    <string name="contact_prompt">Please enter your contact information(e-mail or phone number):</string>
+    <string name="address_prompt">Please enter your delivery address:</string>
+    <string name="request_prompt">Please enter any special request you have:</string>
+    <string name="shop_prompt">Fill out the following form to place an order.</string>
+    <string name="choose_honey">Please choose honey type and size:</string>
+    <string name="information">Welcome to HoneyExpress!</string>
+    <string name="info_text">We are a small family business, located in a small town in Romania.
+        We have been working with bees in the last 20 years or so and we would like our honey to reach to more people.
+    If you are interested in buying bigger amounts of honey or have a business idea regarding this field, feel free to contact us.
+    We our very happy that you visited our page. Have a sweet day!</string>
+    <string name="contact">E-mail: hevesinora17@gmail.com || Mobile: 0040743234519</string>
+</resources>
